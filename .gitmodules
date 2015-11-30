@@ -1,3 +1,0 @@
-[submodule "ESP-MQTT-GPIO"]
-	path = ESP-MQTT-GPIO
-	url = https://github.com/tomikpik/ESP-MQTT-GPIO.git
